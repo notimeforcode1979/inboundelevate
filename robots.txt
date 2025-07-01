@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https:// notimeforcode1979.github.io/inboundelevate/sitemap.xml
